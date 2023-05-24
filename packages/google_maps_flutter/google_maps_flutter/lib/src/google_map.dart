@@ -301,6 +301,7 @@ class _GoogleMapState extends State<GoogleMap> {
 
   @override
   Widget build(BuildContext context) {
+    print("using repo version of Google Maps");
     return GoogleMapsFlutterPlatform.instance.buildViewWithConfiguration(
       _mapId,
       onPlatformViewCreated,
