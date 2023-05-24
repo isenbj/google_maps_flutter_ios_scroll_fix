@@ -23,7 +23,7 @@ dependencies:
   google_maps_flutter_ios:
     git: 
       url: https://github.com/isenbj/google_maps_flutter_ios_scroll_fix.git
-      path: packages/google_maps_flutter/google_maps_flutter_ioss
+      path: packages/google_maps_flutter/google_maps_flutter_ios
       ref: main
   google_maps_flutter_platform_interface: ^2.2.1
 
